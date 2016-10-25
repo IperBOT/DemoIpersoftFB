@@ -1,8 +1,14 @@
 [
     {
     "ID":"HOME",
-    "Text":"Benvenuto nel Menu di IperBOT\nInstallazione eseguita correttamente",
+    "Text":"Benvenuto nel Menu di IperBOT",
     "Button":[
          {"Text":"Info BOT","ID":"info"}]
-    }
+    },
+    {
+    "ID":"info",
+    "Text":"BOT creato da Paolo Fisco @ipersoft",
+    "Button":[
+         {"Text":"Menu principale","ID":"HOME"}]
+    }    
 ]
