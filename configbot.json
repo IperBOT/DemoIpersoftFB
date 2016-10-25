@@ -1,6 +1,8 @@
 [
     {
     "ID":"HOME",
-    "Text":"Benvenuto nel Menu di IperBOT\nInstallazione eseguita correttamente"
+    "Text":"Benvenuto nel Menu di IperBOT\nInstallazione eseguita correttamente",
+    "Button":[
+         {"Text":"Info BOT","ID":"info"}]
     }
 ]
